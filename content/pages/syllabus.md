@@ -70,11 +70,48 @@ Course Requirements and Grading
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Essays 1 and 2 (6-7 pages each) (25% each) | 50% |
-| Essay 3 (8-10 pages) | 35% |
-| Attendance/participation, oral assignment | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essays 1 and 2 (6-7 pages each) (25% each)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3 (8-10 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance/participation, oral assignment
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 You will be asked to revise either Essay 1 or Essay 2, depending on your section. The exact breakdown and distribution of grades will depend upon your particular section.
 
@@ -85,22 +122,330 @@ Schedule of Classes and Readings
 
 Further, the schedule does not mean that the lectures will focus **entirely** on the readings listed — their content and emphasis will vary from week to week, depending on the nature of the topic being covered and which of three faculty members is responsible for that week's lecture. But you are expected to keep up with the reading as described in the schedule.
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 0 | Introduction | &nbsp; |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Aristotle {{< br >}}{{< br >}} Two discussions: Sophcles: _Oedipus Rex_; Aristotle {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Pascal and _Hamlet_ {{< br >}}{{< br >}} Two discussions: Shakespeare, _Hamlet_; Pascal; Cardano {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Newton and Leibniz {{< br >}}{{< br >}} Two discussions: Pope: _An Essay on Man_ (selections); Newton; Leibniz; Huygens, de Moivre {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Leibniz and Voltaire's _Candide_ {{< br >}}{{< br >}} Two discussions: Leibniz, Port Royal Logic, _Candide_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Hume and Sterne's _Sentimental Journey_ {{< br >}}{{< br >}} Two discussions: Leibniz, Hume, _Sentimental Journey_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Essay 1 due (6-7 pages) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Wordsworth, Coleridge, Byron {{< br >}}{{< br >}} Two discussions: _Sentimental Journey_, Hume, Wordworth et al., Hartley {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Wordsworth (cont.), Bernoulli {{< br >}}{{< br >}} One discussion: Bernoulli, Laplace {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Bernoulli (cont.), Bayes, Quetelet {{< br >}}{{< br >}} Two discussions: Dostoevsky: _Notes from the Underground_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Darwin {{< br >}}{{< br >}} Two discussions: Darwin; Wells: _The Island of Doctor Moreau_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Essay 2 due (6-7 pages) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Darwin, Arbuthnot, Galton {{< br >}}{{< br >}} One discussion: Wells: _The Island of Doctor Moreau_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: C. S. Peirce, Borges, Mallarmé {{< br >}}{{< br >}} Two discussions: Peirce, Borges (short stories) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Maxwell's Demon and Pynchon's _The Crying of Lot 49_ {{< br >}}{{< br >}} Two discussions: Pynchon: _The Crying of Lot 49_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture: Quantum Mechanics: Bohr {{< br >}}{{< br >}} Two discussions: Stoppard: _Rosencrantz and Guildenstern are Dead_ {{< br >}}{{< br >}}  | Final essay due in the last class (8-10 pages) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Aristotle
+
+Two discussions: Sophcles: _Oedipus Rex_; Aristotle
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Pascal and _Hamlet_
+
+Two discussions: Shakespeare, _Hamlet_; Pascal; Cardano
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Newton and Leibniz
+
+Two discussions: Pope: _An Essay on Man_ (selections); Newton; Leibniz; Huygens, de Moivre
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Leibniz and Voltaire's _Candide_
+
+Two discussions: Leibniz, Port Royal Logic, _Candide_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Hume and Sterne's _Sentimental Journey_
+
+Two discussions: Leibniz, Hume, _Sentimental Journey_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Essay 1 due (6-7 pages)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Wordsworth, Coleridge, Byron
+
+Two discussions: _Sentimental Journey_, Hume, Wordworth et al., Hartley
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Wordsworth (cont.), Bernoulli
+
+One discussion: Bernoulli, Laplace
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Bernoulli (cont.), Bayes, Quetelet
+
+Two discussions: Dostoevsky: _Notes from the Underground_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Darwin
+
+Two discussions: Darwin; Wells: _The Island of Doctor Moreau_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Essay 2 due (6-7 pages)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Darwin, Arbuthnot, Galton
+
+One discussion: Wells: _The Island of Doctor Moreau_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: C. S. Peirce, Borges, Mallarmé
+
+Two discussions: Peirce, Borges (short stories)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Maxwell's Demon and Pynchon's _The Crying of Lot 49_
+
+Two discussions: Pynchon: _The Crying of Lot 49_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Quantum Mechanics: Bohr
+
+Two discussions: Stoppard: _Rosencrantz and Guildenstern are Dead_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final essay due in the last class (8-10 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Working with the Tutor
 ----------------------
