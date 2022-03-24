@@ -102,7 +102,7 @@ Bayes, Rev. Thomas. "An Essay towards solving a Problem in the Doctrine of Chanc
 Weeks 8-9: Quetelet, D. Bernoulli, Dostoevsky
 ---------------------------------------------
 
-Quetelet, M. A. _A Treatise on Man and the Development of His Faculties_. Edinburgh, Scotland: William and Robert Chambers, 1842, pp. iii-x, 98-101, and 103-105, preface, book four chapter I.2-I.3 and chapter II (excerpt). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB]({{< baseurl >}}/resources/quetelet_exce))
+Quetelet, M. A. _A Treatise on Man and the Development of His Faculties_. Edinburgh, Scotland: William and Robert Chambers, 1842, pp. iii-x, 98-101, and 103-105, preface, book four chapter I.2-I.3 and chapter II (excerpt). ([PDF - 1.4 MB]({{< baseurl >}}/resources/quetelet_exce))
 
 Bernoulli, Daniel. "Exposition of a New Theory on the Measurement of Risk (1738)." Translated by Dr. Louise Sommer. _Econometrica_ 22, no. 1 (January 1954): 23-36.
 
@@ -110,7 +110,7 @@ Dostoevsky, Fyodor. "Notes From Underground." In _Notes from Underground, The Do
 
 _Optional_
 
-Hooper, George. "A Calculation of the Credibility of Human Testimony," 1699. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hooper_1699))
+Hooper, George. "A Calculation of the Credibility of Human Testimony," 1699. ([PDF]({{< baseurl >}}/resources/hooper_1699))
 
 Excerpts from Jeremy Bentham, "An Introduction to the Principles of Morals and Legislation," (1789); and John Stuart Mill, "Utilitarianism." (1861). ([PDF]({{< baseurl >}}/resources/bentham_mill))
 
