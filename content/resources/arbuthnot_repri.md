@@ -5,6 +5,7 @@ description: 'Reading for the course: Arbuthnot, John. "An Argument for Divine P
   Transactions of the Royal Society of London 27 (1710): 186-190.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/530fd77b578d4b4522ba612aa79b54bc_arbuthnot_repri.pdf
 file_type: application/pdf
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: An Argument for Divine Providence, taken from the constant Regularity observ'd
   in the Births of both Sexes
